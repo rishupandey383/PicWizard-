@@ -1,0 +1,11 @@
+
+flask
+torch
+transformers
+diffusers
+accelerate
+pillow
+
+
+
+# to run the program just type on terminal python app.py and the copy local host and paste it to browswer 
